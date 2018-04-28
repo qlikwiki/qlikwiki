@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Qlik.Wiki  ',
-    description: 'My documentation for Qlik products',
+    description: 'Documentation for Qlik products',
 
     themeConfig: {
       // Assumes GitHub. Can also be a full GitLab url.
